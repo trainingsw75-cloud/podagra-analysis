@@ -1,0 +1,14 @@
+# Временные файлы Python
+__pycache__/
+*.py[cod]
+
+# Файлы окружения и секретные данные
+.env
+venv/
+
+# Файлы Jupyter Notebook
+.ipynb_checkpoints/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
